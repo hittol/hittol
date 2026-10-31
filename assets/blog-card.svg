@@ -1,34 +1,33 @@
-
-<svg width="1100" height="300" viewBox="0 0 1100 300"
+<svg width="1100" height="240" viewBox="0 0 1100 240"
      fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <linearGradient id="cardBg"
-      x1="0" y1="0" x2="1100" y2="300"
+      x1="0" y1="0" x2="1100" y2="240"
       gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111B2B"/>
-      <stop offset="1" stop-color="#101827"/>
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0E1520"/>
     </linearGradient>
   </defs>
 
   <!-- Card Background -->
-  <rect x="6" y="6" width="1088" height="288"
-        rx="20"
+  <rect x="8" y="8" width="1084" height="224"
+        rx="18"
         fill="url(#cardBg)"
-        stroke="#304157"
-        stroke-width="1.5"/>
+        stroke="#263041"
+        stroke-width="1.2"/>
 
   <!-- Blog Name -->
-  <text x="42" y="68"
-        fill="#94A3B8"
-        font-size="24"
+  <text x="42" y="56"
+        fill="#8EA3BF"
+        font-size="22"
         font-weight="600"
         font-family="Segoe UI, Arial, sans-serif">
     hittol.github.io
   </text>
 
   <!-- External Link Icon -->
-  <g transform="translate(1010 39)"
+  <g transform="translate(1010 28) scale(0.60)"
      stroke="#94A3B8"
      stroke-width="3"
      stroke-linecap="round"
@@ -44,18 +43,18 @@
   </g>
 
   <!-- Post Title -->
-  <text x="42" y="138"
+  <text x="42" y="108"
         fill="#FFFFFF"
-        font-size="26"
+        font-size="22"
         font-weight="700"
         font-family="Segoe UI, Arial, sans-serif">
     [Azure] Azure VPN 개념 및 문제진단
   </text>
 
   <!-- Description -->
-  <text x="42" y="198"
+  <text x="42" y="154"
         fill="#AEBFD4"
-        font-size="22"
+        font-size="17"
         font-weight="400"
         font-family="Segoe UI, Arial, sans-serif">
     Azure VPN 개념 및 배포, 문제진단에 대한 블로그 포스트
@@ -63,39 +62,39 @@
 
   <!-- Tags -->
   <g>
-    <rect x="42" y="228" width="100" height="38"
-          rx="19" fill="#0F1A28"
-          stroke="#304157" stroke-width="2"/>
-    <text x="92" y="253"
+    <rect x="42" y="182" width="84" height="30"
+          rx="15" fill="#0D1117"
+          stroke="#304157" stroke-width="1.6"/>
+    <text x="84" y="202"
           text-anchor="middle"
           fill="#35D0A3"
-          font-size="19"
+          font-size="16"
           font-family="Segoe UI, Arial, sans-serif">
       VPN
     </text>
   </g>
 
   <g>
-    <rect x="158" y="228" width="108" height="38"
-          rx="19" fill="#0F1A28"
-          stroke="#304157" stroke-width="2"/>
-    <text x="212" y="253"
+    <rect x="138" y="182" width="100" height="30"
+          rx="15" fill="#0D1117"
+          stroke="#304157" stroke-width="1.6"/>
+    <text x="188" y="202"
           text-anchor="middle"
           fill="#35D0A3"
-          font-size="19"
+          font-size="16"
           font-family="Segoe UI, Arial, sans-serif">
       azure
     </text>
   </g>
 
   <g>
-    <rect x="282" y="228" width="168" height="38"
-          rx="19" fill="#0F1A28"
-          stroke="#304157" stroke-width="2"/>
-    <text x="366" y="253"
+    <rect x="250" y="182" width="160" height="30"
+          rx="15" fill="#0D1117"
+          stroke="#304157" stroke-width="1.6"/>
+    <text x="330" y="202"
           text-anchor="middle"
           fill="#35D0A3"
-          font-size="19"
+          font-size="16"
           font-family="Segoe UI, Arial, sans-serif">
       Networking
     </text>

@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a href="https://hittol.github.io/">
+<a href="https://hittol.github.io/vpn/Azure_Virtual_Network_Gateway/">
   <img src="./assets/blog-card.svg" width="90%" alt="AKS Blog Post"/>
 </a>
 
