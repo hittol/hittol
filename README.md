@@ -1,48 +1,59 @@
 
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:326CE5&height=170&section=header&text=Woorim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Azure%20Cloud%20Engineer%20%7C%20DevOps&descAlignY=65&descColor=ffffff)
+<!-- ================= HEADER ================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=17283D&height=200&section=header&text=Hello,%20I'm%20Woorim%20%E2%98%81&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48&desc=Azure%20Cloud%20Infrastructure%20%7C%20Kubernetes%20%7C%20Automation&descSize=15&descAlignY=72&descColor=CBD5E1" width="100%"/>
+
+**CLOUD ENGINEER**
+
+</div>
 
 <br>
 
-<h3 align="center">☁️ Tech Stack ☁️</h3>
+<!-- ================= TECH STACK ================= -->
 
-<p align="center">
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <br>
+<h2 align="center">Tech Stack</h2>
 
-  <!-- IaC / DevOps -->
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <br>
+<div align="center">
 
-  <!-- OS / Language -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-  <br>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Linux-454545?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-303B4C?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
 
-  <!-- Monitoring -->
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-</p>
+</div>
 
 <br>
 
-<!-- Blog -->
-<h3 align="center">📓 Blog 📓</h3>
+---
 
-<p align="center">
-  <a href="https://hittol.github.io/">
-    <img src="https://img.shields.io/badge/Tech_Blog-0078D4?style=flat-square&logo=githubpages&logoColor=white"/>
-  </a>
-</p>
+<!-- ================= BLOG ================= -->
+
+<h2 align="center">📓 Blog 📓</h2>
+
+<div align="center">
+
+<a href="https://hittol.github.io/">
+  <img src="https://img.shields.io/badge/woorim.log-Tech_Blog-17283D?style=for-the-badge&labelColor=17283D&color=326CE5" alt="Tech Blog"/>
+</a>
+
+<br><br>
+
+<a href="https://hittol.github.io/">
+  <img src="https://img.shields.io/badge/%5BAKS%5D%20Private%20Cluster%20%2B%20Network%20Isolation-Read%20Post-17283D?style=for-the-badge&labelColor=17283D&color=0078D4" alt="AKS Blog Post"/>
+</a>
 
 <br>
 
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:326CE5&height=100&section=footer)
+**[AKS] Private Cluster + Network Isolation 구성기**
+
+Azure 기반 폐쇄망 AKS, ACR, Traefik 구성을 정리한 기술 블로그 포스트
+
+`aks` · `azure` · `kubernetes`
+
+</div>
