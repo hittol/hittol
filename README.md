@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a href="https://YOUR-BLOG-POST-URL">
+<a href="https://hittol.github.io/">
   <img src="./assets/blog-card.svg" width="90%" alt="AKS Blog Post"/>
 </a>
 
