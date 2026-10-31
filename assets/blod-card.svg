@@ -1,0 +1,92 @@
+<svg width="1100" height="300" viewBox="0 0 1100 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1100" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#122235"/>
+      <stop offset="1" stop-color="#101D2D"/>
+    </linearGradient>
+    <filter id="cardShadow" x="0" y="0" width="1100" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#08111D" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect x="6" y="6" width="1088" height="288" rx="24" fill="url(#cardBg)" stroke="#2B3B50" stroke-width="2" filter="url(#cardShadow)"/>
+
+  <!-- top labels -->
+  <text x="42" y="68"
+        fill="#8DA2BE"
+        font-size="28"
+        font-weight="700"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    hittol.github.io
+  </text>
+
+  <text x="930" y="68"
+        fill="#8DA2BE"
+        font-size="22"
+        font-weight="600"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+  </text>
+
+  <text x="1000" y="68"
+        fill="#8DA2BE"
+        font-size="26"
+        font-weight="700"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    ↗
+  </text>
+
+  <!-- title -->
+  <text x="42" y="138"
+        fill="#FFFFFF"
+        font-size="34"
+        font-weight="800"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    [Azure] Azure VPN 개념 및 문제진단
+  </text>
+
+  <!-- description -->
+  <text x="42" y="198"
+        fill="#AEBFD4"
+        font-size="22"
+        font-weight="500"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    Azure VPN 개념 및 배포, 문제진단에 대한 블로그 포스트
+  </text>
+
+  <!-- tags -->
+  <g>
+    <rect x="42" y="228" width="88" height="38" rx="19" fill="#0F1A28" stroke="#2D4057" stroke-width="2"/>
+    <text x="86" y="253"
+          text-anchor="middle"
+          fill="#35D0A3"
+          font-size="20"
+          font-weight="700"
+          font-family="Segoe UI, Arial, Helvetica, sans-serif">
+      VPN
+    </text>
+  </g>
+
+  <g>
+    <rect x="146" y="228" width="108" height="38" rx="19" fill="#0F1A28" stroke="#2D4057" stroke-width="2"/>
+    <text x="200" y="253"
+          text-anchor="middle"
+          fill="#35D0A3"
+          font-size="20"
+          font-weight="700"
+          font-family="Segoe UI, Arial, Helvetica, sans-serif">
+      azure
+    </text>
+  </g>
+
+  <g>
+    <rect x="270" y="228" width="170" height="38" rx="19" fill="#0F1A28" stroke="#2D4057" stroke-width="2"/>
+    <text x="355" y="253"
+          text-anchor="middle"
+          fill="#35D0A3"
+          font-size="20"
+          font-weight="700"
+          font-family="Segoe UI, Arial, Helvetica, sans-serif">
+      Networking
+    </text>
+  </g>
+</svg>

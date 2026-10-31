@@ -1,0 +1,40 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C3048"/>
+      <stop offset="1" stop-color="#17283D"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="280" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#08111D" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" rx="42" fill="url(#bg)" filter="url(#shadow)"/>
+
+  <text x="600" y="82"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-size="24"
+        font-weight="700"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    CLOUD ENGINEER
+  </text>
+
+  <text x="600" y="145"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-size="56"
+        font-weight="800"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    Hello, I'm Woorim ☁
+  </text>
+
+  <text x="600" y="205"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-size="24"
+        font-weight="600"
+        font-family="Segoe UI, Arial, Helvetica, sans-serif">
+    Azure Cloud Infrastructure | Kubernetes | Automation
+  </text>
+</svg>
